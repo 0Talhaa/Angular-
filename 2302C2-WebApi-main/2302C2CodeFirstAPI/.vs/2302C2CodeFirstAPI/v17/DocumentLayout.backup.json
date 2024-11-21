@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\controllers\\eventorganizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\controllers\\eventorganizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\2302c2codefirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\2302c2codefirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./HNEventOrganizers/sa/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\haris naseer\\3rd semester\\web api\\2302c2\\2302c2codefirstapi\\2302c2codefirstapi\\migrations\\20241017064617_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F02870-8A49-40BE-8B79-CC17E8592DB4}|2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj|solutionrelative:2302c2codefirstapi\\migrations\\20241017064617_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Models\\EventDTO.cs",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\Models\\EventDTO.cs",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Models\\EventDTO.cs",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\Models\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:24:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Events.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./HNEventOrganizers/sa/SqlTable/dbo.Events.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./HNEventOrganizers/sa/SqlTable/dbo.Events.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-17T06:57:30.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventOrganizerController.cs",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Controllers\\EventOrganizerController.cs",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\Controllers\\EventOrganizerController.cs",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Controllers\\EventOrganizerController.cs",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\Controllers\\EventOrganizerController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:54:24.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241017064617_events.cs",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Migrations\\20241017064617_events.cs",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\Migrations\\20241017064617_events.cs",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Migrations\\20241017064617_events.cs",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\Migrations\\20241017064617_events.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:46:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\appsettings.json",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T06:41:13.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:37:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Models\\EventType.cs",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\Models\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:31:56.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Models\\Event.cs",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:29:23.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2302C2CodeFirstAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\2302C2CodeFirstAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T06:26:14.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "2302C2CodeFirstAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Haris Naseer\\3RD SEMESTER\\Web API\\2302C2\\2302C2CodeFirstAPI\\2302C2CodeFirstAPI\\Program.cs",
+              "RelativeToolTip": "2302C2CodeFirstAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:25:38.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

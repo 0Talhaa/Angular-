@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _2302C2CodeFirstAPI
+build_property.RootNamespace = _2302C2CodeFirstAPI
+build_property.ProjectDir = C:\Users\asp\Desktop\Angular-Full-Stack_project\2302C2-WebApi-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asp\Desktop\Angular-Full-Stack_project\2302C2-WebApi-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI
+build_property._RazorSourceGeneratorDebug = 

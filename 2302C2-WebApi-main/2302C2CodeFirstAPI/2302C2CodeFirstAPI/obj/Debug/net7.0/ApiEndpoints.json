@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "_2302C2CodeFirstAPI.Controllers.EventOrganizerController",
+    "Method": "GetEvents",
+    "RelativePath": "api/EventOrganizer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302C2CodeFirstAPI.Controllers.EventOrganizerController",
+    "Method": "AddEvent",
+    "RelativePath": "api/EventOrganizer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ev",
+        "Type": "_2302C2CodeFirstAPI.Models.EventDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302C2CodeFirstAPI.Controllers.EventOrganizerController",
+    "Method": "EditEvent",
+    "RelativePath": "api/EventOrganizer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ev",
+        "Type": "_2302C2CodeFirstAPI.Models.EventDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302C2CodeFirstAPI.Controllers.EventOrganizerController",
+    "Method": "DeleteEvent",
+    "RelativePath": "api/EventOrganizer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ev",
+        "Type": "_2302C2CodeFirstAPI.Models.EventDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302C2CodeFirstAPI.Controllers.EventOrganizerController",
+    "Method": "GetEvent",
+    "RelativePath": "api/EventOrganizer/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2302C2CodeFirstAPI.Controllers.EventOrganizerController",
+    "Method": "GetEventTypes",
+    "RelativePath": "api/EventOrganizer/EventTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
